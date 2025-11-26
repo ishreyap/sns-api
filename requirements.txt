@@ -1,0 +1,13 @@
+fastapi
+starlette
+uvicorn
+google-cloud-pubsub
+pydantic
+pydantic[email]
+psycopg2-binary
+python-dotenv
+python-jose 
+pyjwt
+bcrypt
+python-multipart
+ldap3
